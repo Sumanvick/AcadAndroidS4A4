@@ -8,9 +8,6 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-/**
- * Created by saurabh.sr on 2/21/2016.
- */
 public class ImageAdapter extends BaseAdapter {
 
     private Context context;
